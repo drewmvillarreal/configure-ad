@@ -132,7 +132,7 @@ The output for the DNS settings should show DC-1’s private IP Address
 
 <p>
 7. For this next part, you will need the public IP address for DC-1 so you can remote in using Remote Desktop Connection.
-  Once logged in to the Domain Controller, 
+  Once logged in to the Domain Controller, you will want to disable the Windows Firewall for testing connectivity. 
 </p>
 <img width="1140" height="439" alt="image" src="https://github.com/user-attachments/assets/8019db8c-5389-4566-b6bf-5769bffa6227" />
 
