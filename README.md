@@ -112,13 +112,21 @@ The output for the DNS settings should show DC-1’s private IP Address
 <img width="729" height="660" alt="image" src="https://github.com/user-attachments/assets/7b645c2d-f5f2-40d3-825e-c7ae87fcf9bb" />
 
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+6. Now that both VMs have been created, set the Domain Controller's NIC Private IP address to be static by going to the VM -> Network settings -> Network interface/IP configuration -> click on ipconfig1 -> select Static under Private IP address settings
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+<img width="913" height="591" alt="image" src="https://github.com/user-attachments/assets/0ed4ae80-9b98-4390-aaa0-269f7af30c0a" />
+
+<img width="1063" height="621" alt="image" src="https://github.com/user-attachments/assets/ebf29abd-7a27-4218-924f-5ebae542500d" />
+
+<img width="574" height="620" alt="image" src="https://github.com/user-attachments/assets/40ef28d4-018c-472b-822e-dd76f05d8920" />
+
+
+
 <br />
+
 
 
 
