@@ -181,7 +181,7 @@ The output for the DNS settings should show DC-1’s private IP Address
 
 <img width="396" height="394" alt="image" src="https://github.com/user-attachments/assets/1369bef4-1c1d-49a2-963c-5661e0389549" />
 
-<img width="412" height="202" alt="image" src="https://github.com/user-attachments/assets/ba90a074-4ef3-4b17-88b3-7c90ab21f0b5" />
+<p><img width="412" height="202" alt="image" src="https://github.com/user-attachments/assets/ba90a074-4ef3-4b17-88b3-7c90ab21f0b5" /></p>
 
   
 </p>
