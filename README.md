@@ -95,14 +95,21 @@ The output for the DNS settings should show DC-1’s private IP Address
 <img width="710" height="144" alt="image" src="https://github.com/user-attachments/assets/5c493ad6-1d7a-4434-9535-216aa5da473f" />
 
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+5. Create a new virtual machine (Windows 11 Pro(25H2) named Client-1
 </p>
 <br />
 
+<img width="729" height="549" alt="image" src="https://github.com/user-attachments/assets/a46ae4c4-9665-4266-8550-02cfe28fb274" />
+
+<img width="732" height="492" alt="image" src="https://github.com/user-attachments/assets/1cc81564-b89c-4eec-9cc8-d69d55f3589a" />
+
+- Username: labuser
+- Password: Password123!
+- Check the licensing prompt, then click Review + create
+
+<img width="729" height="660" alt="image" src="https://github.com/user-attachments/assets/7b645c2d-f5f2-40d3-825e-c7ae87fcf9bb" />
 
 
 <p>
