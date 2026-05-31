@@ -189,8 +189,12 @@ The output for the DNS settings should show DC-1’s private IP Address
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+10. To check that the DNS settings have been applied correctly, run ipconfig /all in Powershell. This should show you the Private IP address for DC-1. 
 </p>
+
+<img width="380" height="332" alt="image" src="https://github.com/user-attachments/assets/b2b3f7d0-8484-4196-b84d-1bbbbbac1201" />
+
+
 <br />
 
 <p>
