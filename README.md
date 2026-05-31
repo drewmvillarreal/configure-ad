@@ -171,11 +171,19 @@ The output for the DNS settings should show DC-1’s private IP Address
 <img width="679" height="478" alt="image" src="https://github.com/user-attachments/assets/dff5d655-acef-45f5-9ab9-556a8a02189c" />
 
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+9. Use Remote Desktop Connection to log in to the Client-1 VM, and attempt to ping the DC-1 Domain Controller's private IP address (10.0.0.4). 
+  
+  - Log in to the Client-1 VM
+  - Open Powershell
+  - Ping 10.0.0.4
+
+<img width="396" height="394" alt="image" src="https://github.com/user-attachments/assets/1369bef4-1c1d-49a2-963c-5661e0389549" />
+
+<img width="412" height="202" alt="image" src="https://github.com/user-attachments/assets/ba90a074-4ef3-4b17-88b3-7c90ab21f0b5" />
+
+  
 </p>
 <br />
 
