@@ -131,11 +131,12 @@ The output for the DNS settings should show DC-1’s private IP Address
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+7. For this next part, you will need the public IP address for DC-1 so you can remote in using Remote Desktop Connection.
+  Once logged in to the Domain Controller, 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<img width="1140" height="439" alt="image" src="https://github.com/user-attachments/assets/8019db8c-5389-4566-b6bf-5769bffa6227" />
+
+
 <br />
 
 
