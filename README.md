@@ -66,24 +66,33 @@ The output for the DNS settings should show DC-1’s private IP Address
 
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Create a new Domain Controller VM (Windows Server 2025 Datacenter: Azure Edition - x64 Gen 2), and name it DC-1.
+  
+  - Be sure to place it in the same resource group created earlier, and within the same region (I did (US) East US 2).
+
+<img width="718" height="633" alt="image" src="https://github.com/user-attachments/assets/c17c0c64-7589-4b53-bd2a-4a0c29887709" />
+
+<img width="736" height="610" alt="image" src="https://github.com/user-attachments/assets/1426e2b9-e325-40f3-9be9-1e35ddd11913" />
+
+  
 </p>
 <br />
 
+
+<p>
+4. Create a new username and password for the virtual machine.
+  
+  - Username: labuser
+    
+  - Password: Password123!
+
+  - Note: You will need to check both licensing prompts before clicking Review + Create and creating the virtual machine. 
+</p>
+<br />
+
+<img width="710" height="144" alt="image" src="https://github.com/user-attachments/assets/5c493ad6-1d7a-4434-9535-216aa5da473f" />
 
 
 <p>
