@@ -118,11 +118,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
   - In Windows Defender Firewall, click Windows Defender Firewall Properties
   - Now turn off the firewall in Domain Profile, Private Profile, and Public Profile
 </p>
-<img width="1140" height="439" alt="image" src="https://github.com/user-attachments/assets/8019db8c-5389-4566-b6bf-5769bffa6227" />
 
-<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/88c63712-7e4b-44ea-8477-9103afade326" />
+<p><img width="1140" height="439" alt="image" src="https://github.com/user-attachments/assets/8019db8c-5389-4566-b6bf-5769bffa6227" /></p>
 
-<img width="585" height="584" alt="image" src="https://github.com/user-attachments/assets/038ac7ea-d45c-4f1d-acf7-75ae7f721940" />
+
+<p><img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/88c63712-7e4b-44ea-8477-9103afade326" /></p>
+
+
+<p><img width="585" height="584" alt="image" src="https://github.com/user-attachments/assets/038ac7ea-d45c-4f1d-acf7-75ae7f721940" /></p>
 
 
 <p><img width="286" height="326" alt="image" src="https://github.com/user-attachments/assets/58210cbf-79a9-46c6-87ed-90b761f57894" /></p>
