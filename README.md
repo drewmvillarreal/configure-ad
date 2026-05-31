@@ -114,7 +114,7 @@ The output for the DNS settings should show DC-1’s private IP Address
 
 
 <p>
-6. Now that both VMs have been created, set the Domain Controller's NIC Private IP address to be static by going to the VM -> Network settings -> Network interface/IP configuration -> click on ipconfig1 -> select Static under Private IP address settings
+6. Now that both VMs have been created, set the Domain Controller's NIC Private IP address to be static by going to the VM -> Network settings -> Network interface/IP configuration -> click on ipconfig1 -> select Static under Private IP address settings -> click Save
 </p>
 
 <img width="913" height="591" alt="image" src="https://github.com/user-attachments/assets/0ed4ae80-9b98-4390-aaa0-269f7af30c0a" />
