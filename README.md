@@ -155,16 +155,20 @@ The output for the DNS settings should show DC-1’s private IP Address
 
 <br />
 
-
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+8. Now we will set the Client-1 VM's DNS settings to the DC-1 VM's Private IP address.
+
+  - In Azure, go to the Client-1 VM
+  - Click on network settings
+  - Click on Network interface/IP configuration
+  - Click on DNS server and click Custom
+  - Enter the Private IP address from the DC-1 VM 
 </p>
 <br />
 
+<img width="1134" height="593" alt="image" src="https://github.com/user-attachments/assets/1efc22e4-7c50-4b3e-84a2-e94a73ebd979" />
+
+<img width="679" height="478" alt="image" src="https://github.com/user-attachments/assets/ff3fa8be-797e-468f-91f4-2866cc4f69a1" />
 
 
 <p>
