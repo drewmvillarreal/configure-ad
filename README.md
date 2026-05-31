@@ -144,11 +144,14 @@ The output for the DNS settings should show DC-1’s private IP Address
 
 <img width="585" height="584" alt="image" src="https://github.com/user-attachments/assets/038ac7ea-d45c-4f1d-acf7-75ae7f721940" />
 
-<img width="286" height="326" alt="image" src="https://github.com/user-attachments/assets/58210cbf-79a9-46c6-87ed-90b761f57894" />
 
-<img width="286" height="326" alt="image" src="https://github.com/user-attachments/assets/b9ed52d3-b574-4ad6-94fd-30dacbf7418a" />
+<p><img width="286" height="326" alt="image" src="https://github.com/user-attachments/assets/58210cbf-79a9-46c6-87ed-90b761f57894" /></p>
 
-<img width="281" height="327" alt="image" src="https://github.com/user-attachments/assets/f1b4dda6-f0f5-4092-899c-b083387b6285" />
+
+<p><img width="286" height="326" alt="image" src="https://github.com/user-attachments/assets/b9ed52d3-b574-4ad6-94fd-30dacbf7418a" /></p>
+
+
+<p><img width="281" height="327" alt="image" src="https://github.com/user-attachments/assets/f1b4dda6-f0f5-4092-899c-b083387b6285" /></p>
 
 <br />
 
