@@ -233,6 +233,21 @@ This tutorial outlines the implementation of on-premises Active Directory within
   - Add jane_admin to the "Domain Admins" Security Group
   - Log out from DC-1, and then log back in as "mydomain.com\jane_admin"
 
+<img width="649" height="601" alt="image" src="https://github.com/user-attachments/assets/db301f02-65f7-40bb-897d-e22a3b053eff" />
+<img width="632" height="447" alt="image" src="https://github.com/user-attachments/assets/1cdf3895-4669-49de-98d2-7ec0164c2772" />
+<img width="628" height="444" alt="image" src="https://github.com/user-attachments/assets/9bde90b6-1839-4feb-bbb1-18a0ec245a00" />
+<img width="634" height="444" alt="image" src="https://github.com/user-attachments/assets/1e72249b-68bc-4a0c-a538-b5798f623781" />
+<img width="371" height="321" alt="image" src="https://github.com/user-attachments/assets/0e56ca68-82f3-4e43-89f6-96bd6566d3ff" />
+<img width="367" height="321" alt="image" src="https://github.com/user-attachments/assets/3385e4fd-16df-4322-934f-072ac201bd5c" />
+<img width="632" height="443" alt="image" src="https://github.com/user-attachments/assets/b72d286b-6403-421e-930d-12e5114ef09e" />
+<img width="344" height="446" alt="image" src="https://github.com/user-attachments/assets/d1bb7902-e187-4dac-8e0f-40ccec2c9546" />
+<img width="385" height="209" alt="image" src="https://github.com/user-attachments/assets/9bbb0925-f3ef-433f-a5c1-8c4c73cf1a00" />
+<img width="448" height="578" alt="image" src="https://github.com/user-attachments/assets/7e90c49e-7340-4a2f-9811-3e98498a31a3" />
+
+
+
+
+
 
 
 </p>
