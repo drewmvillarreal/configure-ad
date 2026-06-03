@@ -183,7 +183,27 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+11. On DC-1, install Active Directory Domain Services. 
+  
+-  Click on start, then Server Manager.
+-  Add roles and features
+
+
+  <img width="540" height="664" alt="image" src="https://github.com/user-attachments/assets/5a6df0fa-e2de-47e4-8a5f-d6384143969c" />
+  <img width="1205" height="631" alt="image" src="https://github.com/user-attachments/assets/b2ffe0a9-074c-442a-a308-d23a76ca7665" />
+  <img width="661" height="473" alt="image" src="https://github.com/user-attachments/assets/1a3f3a2e-4311-42e2-8161-3530c50bbff3" />
+  <img width="663" height="486" alt="image" src="https://github.com/user-attachments/assets/ae82c942-6e01-4d2a-bf45-371506ce7b9a" />
+  <img width="663" height="470" alt="image" src="https://github.com/user-attachments/assets/dca829a2-db90-4a12-9380-2c885e1aee4b" />
+  <img width="658" height="473" alt="image" src="https://github.com/user-attachments/assets/97f1d43b-a31c-4cc8-b8de-044d53737d40" />
+  <img width="351" height="370" alt="image" src="https://github.com/user-attachments/assets/7de31099-c831-4112-96f5-af99b93b3bbf" />
+
+
+
+
+  
+
+
+
 </p>
 <br />
 
