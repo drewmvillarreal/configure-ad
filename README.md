@@ -225,7 +225,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+13. Create a Domain Admin user within the domain.
+
+  - In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called "_EMPLOYEES"
+  - Create a new OU named "_ADMINS"
+  - Create a new employee named "Jane Doe" and make a new password and username of "jane_admin"
+  - Add jane_admin to the "Domain Admins" Security Group
+  - Log out from DC-1, and then log back in as "mydomain.com\jane_admin"
+
+
+
 </p>
 <br />
 
