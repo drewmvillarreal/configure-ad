@@ -187,6 +187,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
   
 -  Click on start, then Server Manager.
 -  Add roles and features
+-  Click next on all the rest of the pages of the Add Roles and Features Wizard, then click install.
 
 
   <img width="540" height="664" alt="image" src="https://github.com/user-attachments/assets/5a6df0fa-e2de-47e4-8a5f-d6384143969c" />
@@ -196,6 +197,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
   <img width="663" height="470" alt="image" src="https://github.com/user-attachments/assets/dca829a2-db90-4a12-9380-2c885e1aee4b" />
   <img width="658" height="473" alt="image" src="https://github.com/user-attachments/assets/97f1d43b-a31c-4cc8-b8de-044d53737d40" />
   <img width="351" height="370" alt="image" src="https://github.com/user-attachments/assets/7de31099-c831-4112-96f5-af99b93b3bbf" />
+  <img width="658" height="468" alt="image" src="https://github.com/user-attachments/assets/c2088298-bdd2-4ebb-ac71-3e5c8c6994b9" />
+
 
 
 
