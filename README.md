@@ -255,6 +255,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 14. Join Client-1 to the Domain
+
+  - Go to System Properties
+  - Click on Change under Computer Name
+  - Click on Member Of and enter "mydomain.com"
+
+<img width="345" height="396" alt="image" src="https://github.com/user-attachments/assets/4e297466-012e-4269-9c4d-925639302010" />
+<img width="346" height="392" alt="image" src="https://github.com/user-attachments/assets/ffab19a6-2747-47db-853d-c19140b3b11d" />
+
+
 </p>
 <br />
 
