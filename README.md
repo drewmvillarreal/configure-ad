@@ -199,19 +199,23 @@ This tutorial outlines the implementation of on-premises Active Directory within
   <img width="351" height="370" alt="image" src="https://github.com/user-attachments/assets/7de31099-c831-4112-96f5-af99b93b3bbf" />
   <img width="658" height="468" alt="image" src="https://github.com/user-attachments/assets/c2088298-bdd2-4ebb-ac71-3e5c8c6994b9" />
 
-
-
-
-
-  
-
-
-
 </p>
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+12. Promote DC-1 into an actual Domain controller. 
+
+  - On Server Manager, click on the flag icon and promote this server to a domain controller.
+  - Click on Add a new forest and enter "mydomain.com"
+  - Create a new password
+  - Click next on the following pages of the configuration wizard and install (this will restart DC-1)
+
+<img width="1196" height="626" alt="image" src="https://github.com/user-attachments/assets/e8cd673a-d577-48a5-ab9f-ce4e6144b317" />
+<img width="639" height="472" alt="image" src="https://github.com/user-attachments/assets/29fe254e-1e80-4afa-86e2-5687967338d6" />
+<img width="638" height="467" alt="image" src="https://github.com/user-attachments/assets/cd825f54-804e-466f-af62-494eecc839f5" />
+
+
+  
 </p>
 <br />
 
