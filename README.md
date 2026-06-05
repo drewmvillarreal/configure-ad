@@ -276,8 +276,20 @@ This tutorial outlines the implementation of on-premises Active Directory within
 15. Setup Remote Desktop for non-administrative users on Client-1
 
   - Log into Client-1 as jane_admin (mydomain.com\jane_admin)
-  - Open system properties and click "Remote Desktop"
-  - Allow "domain users" access to remote desktop
+  - Use the search bar and type "remote desktop settings"
+  - Click on "Remote Desktop Users"
+  - Allow "domain users" access to remote desktop by clicking "Add", and on the next popup screen type "domain users", click "Check Names", then Ok.
+  - Now "MYDOMAIN\Domain Users" will show under the Remote Desktop Users popup. Click ok, and you have successfully allowed domain users access to remote desktop.
+
+<img width="703" height="662" alt="image" src="https://github.com/user-attachments/assets/53debc93-e5a9-4ede-a19c-76d6cb1e2ca4" />
+
+<img width="1007" height="580" alt="image" src="https://github.com/user-attachments/assets/694c139a-6b59-4da4-b328-a013f27bb6f7" />
+
+<img width="727" height="276" alt="image" src="https://github.com/user-attachments/assets/875e18f6-8dca-4901-93fb-aea49d4e2cc1" />
+
+<img width="314" height="275" alt="image" src="https://github.com/user-attachments/assets/67afaaf7-cb48-4c04-9a22-74a9b2cbf564" />
+
+
 
 
 </p>
