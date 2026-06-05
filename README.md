@@ -302,28 +302,18 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Open PowerShell_ise as an administrator
 - Create a new File and paste the contents of the [script](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) into it
 - Run the script and observe the accounts being created
-- When finished, open ADUC and observe the accounts in the appropriate OU　(_EMPLOYEES)
+- When finished, open Active Directory Users and Computer and observe the accounts in the appropriate OU　(_EMPLOYEES)
 - attempt to log into Client-1 with one of the accounts (take note of the password in the script)
 
-</p>
-<br />
+<img width="649" height="608" alt="image" src="https://github.com/user-attachments/assets/95a29c68-4b33-4601-9964-4e26afb41c17" />
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1610" height="888" alt="image" src="https://github.com/user-attachments/assets/758986b1-0c09-495b-9285-425a0aa621b2" />
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="632" height="439" alt="image" src="https://github.com/user-attachments/assets/ab4adffb-64af-4d4d-99bd-9bc56eb290db" />
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="450" height="575" alt="image" src="https://github.com/user-attachments/assets/2fb91f07-0d05-416a-b260-506d3d59c1f9" />
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="406" height="455" alt="image" src="https://github.com/user-attachments/assets/9b1797b3-b54f-42c9-9e7f-5a362f33d5ac" />
+
+
 </p>
-<br />
