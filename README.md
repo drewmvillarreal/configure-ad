@@ -296,7 +296,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+16. Create a batch of users and attempt to log into Client-1 with one of the new users
+
+- Login to DC-1 as jane_admin
+- Open PowerShell_ise as an administrator
+- Create a new File and paste the contents of the script into it
+- Run the script and observe the accounts being created
+- When finished, open ADUC and observe the accounts in the appropriate OU　(_EMPLOYEES)
+- attempt to log into Client-1 with one of the accounts (take note of the password in the script)
+
 </p>
 <br />
 
